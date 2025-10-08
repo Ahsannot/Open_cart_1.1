@@ -1,0 +1,236 @@
+2025-10-09 00:54:42.441 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 00:54:42.455 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 00:54:42.455 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 00:54:46.463 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 00:55:42.487 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 00:55:42.494 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 00:55:42.495 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 00:55:46.017 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 00:56:36.671 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 00:56:36.675 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 00:56:36.675 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 00:56:40.289 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 00:57:20.357 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 00:57:20.364 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 00:57:20.366 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 00:57:23.799 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:01:11.280 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:01:11.474 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:01:11.814 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:01:11.816 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:01:13.504 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:01:13.505 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:01:13.506 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:01:13.938 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:01:13.938 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:01:13.938 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:01:17.640 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:04:43.179 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:04:43.179 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:04:43.186 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:04:47.043 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:07:52.604 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:07:52.770 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:07:53.172 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:07:53.176 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:07:54.520 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:07:54.522 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:07:54.522 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:07:55.197 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:07:55.199 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:07:55.199 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:07:59.216 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:14:19.701 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:14:19.701 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:14:20.018 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:14:20.021 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:14:20.418 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:14:20.422 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:14:20.526 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:14:20.527 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:14:22.276 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:14:22.279 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:14:22.282 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:14:22.617 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:14:22.617 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:14:22.617 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:14:23.206 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:14:23.206 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:14:23.206 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:14:23.206 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:14:23.206 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:14:23.206 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:14:27.106 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:14:27.249 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:25:47.343 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: MicrosoftEdge, OS: Linux, Run Mode: sequential
+2025-10-09 01:25:53.658 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:25:53.985 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:25:54.569 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:25:54.571 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:25:56.533 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:25:56.537 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:25:56.537 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:25:57.313 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:25:57.316 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:25:57.316 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:26:01.483 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:26:10.893 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:26:10.893 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:26:10.893 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:26:14.078 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:34:13.862 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: chrome, OS: Linux, Run Mode: parallel
+2025-10-09 01:34:16.822 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:34:16.849 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:34:17.332 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:34:17.399 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:34:17.779 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:34:17.782 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:34:17.904 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:34:17.905 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:34:19.718 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:34:19.719 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:34:19.720 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:34:20.093 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:34:20.093 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:34:20.093 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:34:20.303 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:34:20.303 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:34:20.303 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:34:20.400 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:34:20.401 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:34:20.401 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:34:23.820 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:34:23.959 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:38:30.768 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: chrome, OS: Linux, Run Mode: parallel
+2025-10-09 01:38:34.223 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:38:34.411 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:38:34.439 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:38:34.602 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:38:34.832 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:38:34.835 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:38:34.986 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:38:34.987 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:38:36.743 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:38:36.748 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:38:36.748 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:38:36.957 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:38:36.957 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:38:36.957 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:38:37.501 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:38:37.501 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:38:37.502 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:38:37.502 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:38:37.502 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:38:37.502 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:38:41.186 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:38:41.606 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:41:08.797 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: MicrosoftEdge, OS: Linux, Run Mode: parallel
+2025-10-09 01:41:11.605 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:41:11.678 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:41:11.793 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:41:11.866 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:41:12.147 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:41:12.148 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:41:12.252 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:41:12.253 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:41:13.778 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:41:13.780 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:41:13.781 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:41:13.925 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:41:13.925 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:41:13.925 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:41:14.275 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:41:14.275 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:41:14.275 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:41:14.275 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:41:14.275 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:41:14.275 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:41:17.885 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:41:18.088 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:43:39.289 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:43:39.289 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:43:39.294 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:43:43.486 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:43:43.503 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:43:43.503 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:43:43.503 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:43:46.661 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:45:29.767 [main] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: chrome, OS: Linux, Run Mode: sequential
+2025-10-09 01:45:32.280 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:45:32.433 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:45:32.764 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:45:32.766 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:45:34.035 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:45:34.037 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:45:34.037 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:45:34.406 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:45:34.406 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:45:34.406 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:45:38.020 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:45:38.026 [main] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: MicrosoftEdge, OS: Linux, Run Mode: sequential
+2025-10-09 01:45:40.111 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:45:40.313 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:45:40.682 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:45:40.682 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:45:41.947 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:45:41.948 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:45:41.948 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:45:42.042 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:45:42.042 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:45:42.042 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:45:45.340 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:50:57.968 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:50:57.974 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:50:57.977 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:51:02.140 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:51:02.180 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:51:02.180 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:51:02.180 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:51:05.272 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:57:45.248 [main] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: chrome, OS: Linux, Run Mode: sequential
+2025-10-09 01:57:49.314 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:57:49.478 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:57:49.856 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:57:49.858 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:57:51.506 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:57:51.508 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:57:51.508 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:57:51.878 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:57:51.878 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:57:51.878 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:57:56.075 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:57:56.080 [main] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: MicrosoftEdge, OS: Linux, Run Mode: sequential
+2025-10-09 01:57:59.288 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:57:59.476 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:57:59.886 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:57:59.887 [main] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:58:01.392 [main] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:58:01.393 [main] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:58:01.393 [main] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:58:01.503 [main] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:58:01.503 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:58:01.503 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:58:04.766 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:58:35.586 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: MicrosoftEdge, OS: Linux, Run Mode: sequential
+2025-10-09 01:58:38.479 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:58:38.724 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
+2025-10-09 01:58:39.147 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:58:39.222 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
+2025-10-09 01:58:39.629 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:58:39.630 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:58:39.701 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Clicking on Login
+2025-10-09 01:58:39.701 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Entering user data
+2025-10-09 01:58:41.288 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:58:41.290 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:58:41.290 [TestNG-tests-1] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:58:41.628 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Confirmation message received: My Account
+2025-10-09 01:58:41.629 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - Test Passed 
+2025-10-09 01:58:41.629 [TestNG-tests-2] INFO  testCases.TC_002AccountLoginTest - ===== Account Login Test Completed =====
+2025-10-09 01:58:41.804 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:58:41.804 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender email: ahsan.clariv@gmail.com
+2025-10-09 01:58:41.805 [TestNG-tests-1] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:58:41.805 [TestNG-tests-2] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
+2025-10-09 01:58:41.805 [TestNG-tests-2] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:58:41.805 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
+2025-10-09 01:58:45.409 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+2025-10-09 01:58:45.565 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com

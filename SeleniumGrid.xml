@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<!--<suite name="EcommerceAutomationSuite" verbose="1" parallel="tests" thread-count="2">-->
+<suite name="EcommerceAutomationSuite" verbose="1"  thread-count="2">
+
+    <!-- ✅ Extent Report Listener -->
+    <listeners>
+        <listener class-name="utilities.ExtentReportListener" />
+    </listeners>
+
+    <!-- ✅ Common Parameter -->
+    <parameter name="os" value="Linux"/>
+<!--    <parameter name="runMode" value="parallel" />-->
+<!--    <parameter name="runMode" value="sequential" />-->
+
+    <!-- ✅ Chrome Test -->
+    <test name="AccountRegistrationTest_Chrome">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="testCases.TC_002AccountLoginTest" />
+        </classes>
+    </test>
+
+    <!-- ✅ Microsoft Edge Test -->
+    <test name="AccountRegistrationTest_Edge">
+        <parameter name="browser" value="MicrosoftEdge" />
+        <classes>
+            <class name="testCases.TC_002AccountLoginTest" />
+        </classes>
+    </test>
+
+</suite>
