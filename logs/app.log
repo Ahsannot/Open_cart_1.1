@@ -234,6 +234,7 @@
 2025-10-09 01:58:41.805 [TestNG-tests-1] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
 2025-10-09 01:58:45.409 [TestNG-tests-1] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
 2025-10-09 01:58:45.565 [TestNG-tests-2] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+<<<<<<< HEAD
 2025-10-09 03:23:06.000 [main] INFO  testCases.TC_002AccountLoginTest - Starting tests with Browser: chrome, OS: Linux, Run Mode: sequential
 2025-10-09 03:23:12.422 [main] INFO  testCases.TC_002AccountLoginTest - ===== Starting Account Login Test =====
 2025-10-09 03:23:12.571 [main] INFO  testCases.TC_002AccountLoginTest - Clicking on My Account
@@ -282,3 +283,5 @@
 2025-10-09 03:24:33.457 [main] INFO  utilities.EmailReportSender - Sender password: mstv vggb nbmk kehz
 2025-10-09 03:24:33.457 [main] INFO  utilities.EmailReportSender - SMTP properties: {mail.smtp.port=587, mail.smtp.auth=true, mail.smtp.starttls.enable=true, mail.smtp.host=smtp.gmail.com}
 2025-10-09 03:24:36.787 [main] INFO  utilities.EmailReportSender - Report sent successfully to hafizgee07@gmail.com
+=======
+>>>>>>> 1bd4daebe7f51602ef72393a81ac49fbac7f1a98
