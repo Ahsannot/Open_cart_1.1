@@ -5,13 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b99547-9bda-4182-8b0f-6057faf766e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005440.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005541.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005634.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005719.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010103.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010441.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010746.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_011413.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_012546.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_013412.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_013829.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014107.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014337.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015056.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015744.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015834.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,36 +36,85 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ahsannot"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ahsannot&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ahsannot/Open_cart_1.1.git",
-    "accountId": "f43aa1c1-32c6-4eb7-830d-be2d931e2db2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ahsannot/Open_cart_1.1.git&quot;,
+    &quot;accountId&quot;: &quot;f43aa1c1-32c6-4eb7-830d-be2d931e2db2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="341EoBOAK5VrmVLVtPsbRfBpcuD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayEquality.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayEquality.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.D:/SeleniumLearning/OpenCart1.1/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SeleniumLearning/OpenCart1.1/pom.xml&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.D:/SeleniumLearning/OpenCart1.1/testng.xml">
+    <configuration name="OpenCart1.1" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="D:/SeleniumLearning/OpenCart1.1/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpenCart1.1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/SeleniumLearning/OpenCart1.1/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f2b99547-9bda-4182-8b0f-6057faf766e3" name="Changes" comment="" />
