@@ -5,33 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2b99547-9bda-4182-8b0f-6057faf766e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ArraySorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemJunkSpecCharfrmString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveWhiteSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseEachWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/WordCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005440.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005541.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005634.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_005719.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010103.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010441.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_010746.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_011413.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_012546.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_013412.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_013829.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014107.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014337.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_014528.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015056.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015744.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/SparkReport_20251009_015834.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
